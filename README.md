@@ -1,13 +1,18 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Oshadi Fernando developer banner" width="100%" />
+
+<br/>
+
 # Hi, I'm Oshadi 👋
 
 ### Software Engineer · Full-Stack & Mobile Developer · AI/ML Enthusiast
 
 Building practical, scalable software across web, mobile, enterprise systems and intelligent applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-oshadif-181717?style=for-the-badge&logo=github)](https://github.com/oshadif)
-![Profile Views](https://komarev.com/ghpvc/?username=oshadif&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-oshadif-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadif)
+![Profile Views](https://komarev.com/ghpvc/?username=oshadif&style=for-the-badge&color=7c3aed)
+![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Engineering-6d28d9?style=for-the-badge)
 
 </div>
 
@@ -15,51 +20,112 @@ Building practical, scalable software across web, mobile, enterprise systems and
 
 ## 👩‍💻 About Me
 
-- 💻 Software engineer focused on building complete, real-world applications
-- 📱 Interested in full-stack web and mobile application development
-- 🤖 Exploring AI/ML and intelligent software systems
-- 🧩 Interested in scalable architecture, APIs, databases and enterprise platforms
-- 🚀 Building portfolio-grade products from idea to deployment
-- 🌱 Continuously improving software engineering, cloud and DevOps skills
+```text
+💻  Building complete, real-world software products
+📱  Full-stack web and mobile application development
+🤖  Exploring AI/ML and intelligent software systems
+🧩  APIs, databases, scalable architecture and enterprise platforms
+🚀  Turning ideas into portfolio-grade products
+🌱  Growing in cloud, DevOps and production engineering
+```
 
-## 🛠️ Technology Stack
+## ⚡ Tech Stack
 
-**Languages:** JavaScript · TypeScript · Python · Java · Dart  
-**Frontend & Mobile:** React · React Native · Flutter · HTML5 · CSS3  
-**Backend & Data:** Node.js · Express · PostgreSQL · MySQL · MongoDB  
-**Engineering:** Git · GitHub · Docker · Linux · Postman
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-### 🌍 [Tourium](https://github.com/oshadif/Tourium)
-**Full-Stack Tour & Travel Booking Platform** — React, Vite, Node.js, Express, PostgreSQL, JWT and Docker.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Customer booking flows, hotel and vehicle selection, promotional pricing, mock payments, PDF invoices, reviews, image uploads and an administrative operations dashboard.
+### 🌍 [Tourium](https://github.com/oshadif/Tourium)
+**Tour & Travel Booking Platform**
+
+React · Vite · Node.js · Express · PostgreSQL · JWT · Docker
+
+Booking flows, hotel/vehicle selection, promo pricing, mock payments, PDF invoices, reviews and admin operations.
+
+</td>
+<td width="50%" valign="top">
 
 ### 👥 [PeopleCore HR](https://github.com/oshadif/PeopleCore-HR)
-**Human Resource Management Platform** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+**Human Resource Management Platform**
 
-Employee records, attendance and clock-in/out, leave approvals, payroll and payslips, recruitment, performance reviews, role-based access, audit logs and database backup workflows.
+React · Node.js · Express · PostgreSQL · JWT · Docker
+
+Employees, attendance, leave, payroll, recruitment, performance, RBAC, audit logs and backups.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔥 [LeadForge CRM](https://github.com/oshadif/LeadForge-CRM)
-**Customer Relationship Management Platform** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+**Customer Relationship Management Platform**
 
-Lead, contact and company management, opportunity pipelines, follow-ups, activities, analytics, revenue forecasting, role-based access and audit trails.
+React · Node.js · Express · PostgreSQL · JWT · Docker
+
+Leads, companies, contacts, sales opportunities, activities, pipeline analytics and audit trails.
+
+</td>
+<td width="50%" valign="top">
 
 ### 📦 [StockPilot](https://github.com/oshadif/StockPilot)
-**Enterprise Inventory Management System** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+**Enterprise Inventory Management System**
 
-Multi-warehouse inventory, suppliers, purchase orders, goods receiving, stock transfers, adjustments, batch and expiry tracking, low-stock monitoring, valuation and audit logs.
+React · Node.js · Express · PostgreSQL · JWT · Docker
+
+Multi-warehouse stock, suppliers, POs, transfers, adjustments, expiry tracking and valuation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧾 [RetailFlow POS](https://github.com/oshadif/RetailFlow-POS)
-**Enterprise Point-of-Sale & Retail Management System** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+**Enterprise Point-of-Sale System**
 
-Barcode-scanner workflows, ESC/POS receipt-printer integration, multi-branch inventory, sales, customers, returns/refunds, audit logs, database backups and offline sales synchronization.
+React · Node.js · Express · PostgreSQL · JWT · Docker
+
+Barcode scanning, ESC/POS printing, branches, returns/refunds, audit logs, backups and offline sales.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛍️ [CARA](https://github.com/oshadif/CARA)
-Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
+**Responsive E-Commerce Frontend**
+
+HTML · CSS · JavaScript
+
+Responsive multi-page storefront focused on clean UI and frontend fundamentals.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,8 +133,12 @@ Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
 
 <div align="center">
 
-![Oshadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oshadif&show_icons=true&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshadif&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oshadif&show_icons=true&hide_border=true&rank_icon=github&theme=midnight-purple&bg_color=0d1117" alt="Oshadi's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadif&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d1117" alt="Oshadi's top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadif&theme=midnight-purple&hide_border=true&background=0D1117" alt="Oshadi's GitHub streak" />
 
 </div>
 
@@ -85,16 +155,16 @@ Cloud & DevOps          ████████████░░░░░░�
 
 ## 🤝 Open to Opportunities
 
-I'm interested in opportunities where I can contribute to production software, learn from strong engineering teams and build reliable user-focused products.
+I'm interested in opportunities where I can contribute to production software, learn from strong engineering teams and build reliable, user-focused products.
 
-**Areas of interest:** Software Engineering · Full-Stack Development · Mobile Development · AI/ML · Cloud
+**Software Engineering · Full-Stack Development · Mobile Development · AI/ML · Cloud**
 
 ---
 
 <div align="center">
 
-### Build. Learn. Improve. Ship.
+### `Plan → Code → Test → Ship → Improve`
 
-⭐ Explore my repositories below to see what I'm building.
+⭐ Explore my repositories to see what I'm building.
 
 </div>
