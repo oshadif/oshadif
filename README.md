@@ -53,12 +53,13 @@ Lead, contact and company management, opportunity pipelines, follow-ups, activit
 
 Multi-warehouse inventory, suppliers, purchase orders, goods receiving, stock transfers, adjustments, batch and expiry tracking, low-stock monitoring, valuation and audit logs.
 
+### 🧾 [RetailFlow POS](https://github.com/oshadif/RetailFlow-POS)
+**Enterprise Point-of-Sale & Retail Management System** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+
+Barcode-scanner workflows, ESC/POS receipt-printer integration, multi-branch inventory, sales, customers, returns/refunds, audit logs, database backups and offline sales synchronization.
+
 ### 🛍️ [CARA](https://github.com/oshadif/CARA)
 Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
-
-### 🔨 Publishing Next
-
-**Enterprise POS**
 
 ---
 
