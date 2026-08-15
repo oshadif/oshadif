@@ -1,1 +1,0 @@
-The profile banner is optimized for GitHub README display at a wide 3.2:1 aspect ratio.
