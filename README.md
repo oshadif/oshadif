@@ -1,52 +1,63 @@
 <div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Oshadi Fernando — Full-Stack Developer" />
+</div>
 
-<img src="./assets/profile-banner.svg" alt="Oshadi Fernando developer banner" width="100%" />
-
-<br/>
+<div align="center">
 
 # Hi, I'm Oshadi 👋
 
-### Software Engineer · Full-Stack & Mobile Developer · AI/ML Enthusiast
+### Full-Stack Developer · Mobile Developer · AI/ML Enthusiast
 
-Building practical, scalable software across web, mobile, enterprise systems and intelligent applications.
+Building modern web, mobile and enterprise applications with clean architecture and thoughtful UI/UX.
 
 [![GitHub](https://img.shields.io/badge/GitHub-oshadif-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadif)
 ![Profile Views](https://komarev.com/ghpvc/?username=oshadif&style=for-the-badge&color=7c3aed)
-![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Engineering-6d28d9?style=for-the-badge)
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 👩‍💻 About Me
 
+- 💻 Full-stack engineer focused on complete real-world products
+- 📱 React Native and Flutter mobile development
+- 🤖 AI/ML and intelligent application development
+- 🧩 APIs, databases, enterprise systems and scalable architecture
+- ☁️ Docker, Linux, cloud and deployment workflows
+- 🚀 Building portfolio-grade products from idea to deployment
+
+</td>
+<td width="50%" valign="top">
+
+## ⚡ Current Focus
+
 ```text
-💻  Building complete, real-world software products
-📱  Full-stack web and mobile application development
-🤖  Exploring AI/ML and intelligent software systems
-🧩  APIs, databases, scalable architecture and enterprise platforms
-🚀  Turning ideas into portfolio-grade products
-🌱  Growing in cloud, DevOps and production engineering
+Full-Stack Engineering  ████████████████████
+Mobile Development      ██████████████████░░
+AI / Machine Learning   ███████████████░░░░░
+Cloud & DevOps          ████████████░░░░░░░░
 ```
 
-## ⚡ Tech Stack
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -56,18 +67,18 @@ Building practical, scalable software across web, mobile, enterprise systems and
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 [Tourium](https://github.com/oshadif/Tourium)
+### ✈️ [Tourium](https://github.com/oshadif/Tourium)
 **Tour & Travel Booking Platform**
 
 React · Vite · Node.js · Express · PostgreSQL · JWT · Docker
 
-Booking flows, hotel/vehicle selection, promo pricing, mock payments, PDF invoices, reviews and admin operations.
+Booking workflows, hotels & vehicles, promos, mock payments, PDF invoices, reviews, uploads and admin operations.
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +88,7 @@ Booking flows, hotel/vehicle selection, promo pricing, mock payments, PDF invoic
 
 React · Node.js · Express · PostgreSQL · JWT · Docker
 
-Employees, attendance, leave, payroll, recruitment, performance, RBAC, audit logs and backups.
+Employees, attendance, leave, payroll, recruitment, performance reviews, RBAC, audit logs and backups.
 
 </td>
 </tr>
@@ -89,7 +100,7 @@ Employees, attendance, leave, payroll, recruitment, performance, RBAC, audit log
 
 React · Node.js · Express · PostgreSQL · JWT · Docker
 
-Leads, companies, contacts, sales opportunities, activities, pipeline analytics and audit trails.
+Leads, contacts, companies, opportunities, pipeline, activities, forecasting, RBAC and audit trails.
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +110,7 @@ Leads, companies, contacts, sales opportunities, activities, pipeline analytics 
 
 React · Node.js · Express · PostgreSQL · JWT · Docker
 
-Multi-warehouse stock, suppliers, POs, transfers, adjustments, expiry tracking and valuation.
+Multi-warehouse stock, suppliers, purchase orders, transfers, batches, expiry tracking, valuation and audit logs.
 
 </td>
 </tr>
@@ -111,7 +122,7 @@ Multi-warehouse stock, suppliers, POs, transfers, adjustments, expiry tracking a
 
 React · Node.js · Express · PostgreSQL · JWT · Docker
 
-Barcode scanning, ESC/POS printing, branches, returns/refunds, audit logs, backups and offline sales.
+Barcode workflows, ESC/POS printing, multi-branch inventory, returns/refunds, offline sync, audit logs and backups.
 
 </td>
 <td width="50%" valign="top">
@@ -121,7 +132,7 @@ Barcode scanning, ESC/POS printing, branches, returns/refunds, audit logs, backu
 
 HTML · CSS · JavaScript
 
-Responsive multi-page storefront focused on clean UI and frontend fundamentals.
+Responsive multi-page storefront focused on clean front-end implementation and user experience.
 
 </td>
 </tr>
@@ -129,42 +140,27 @@ Responsive multi-page storefront focused on clean UI and frontend fundamentals.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oshadif&show_icons=true&hide_border=true&rank_icon=github&theme=midnight-purple&bg_color=0d1117" alt="Oshadi's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadif&layout=compact&hide_border=true&theme=midnight-purple&bg_color=0d1117" alt="Oshadi's top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oshadif&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=c9d1d9&ring_color=a855f7" alt="Oshadi's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadif&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="Top languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadif&theme=midnight-purple&hide_border=true&background=0D1117" alt="Oshadi's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=oshadif&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Full-Stack Engineering  ████████████████████
-Mobile Development      ██████████████████░░
-AI / Machine Learning   ███████████████░░░░░
-Cloud & DevOps          ████████████░░░░░░░░
-```
-
 ## 🤝 Open to Opportunities
 
-I'm interested in opportunities where I can contribute to production software, learn from strong engineering teams and build reliable, user-focused products.
-
-**Software Engineering · Full-Stack Development · Mobile Development · AI/ML · Cloud**
-
----
+I'm interested in software engineering opportunities where I can build production software, contribute to strong engineering teams, and keep growing across full-stack, mobile, AI/ML and cloud engineering.
 
 <div align="center">
 
-### `Plan → Code → Test → Ship → Improve`
+### Build. Learn. Improve. Ship.
 
-⭐ Explore my repositories to see what I'm building.
+⭐ Explore the repositories above to see what I'm building.
 
 </div>
