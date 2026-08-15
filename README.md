@@ -8,7 +8,7 @@
 
 ### Full-Stack Developer · Mobile Developer · AI/ML Enthusiast
 
-Building modern web, mobile and enterprise applications with clean architecture and thoughtful UI/UX.
+Building modern web, mobile, enterprise and blockchain intelligence applications with clean architecture and thoughtful UI/UX.
 
 [![GitHub](https://img.shields.io/badge/GitHub-oshadif-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadif)
 ![Profile Views](https://komarev.com/ghpvc/?username=oshadif&style=for-the-badge&color=7c3aed)
@@ -26,6 +26,7 @@ Building modern web, mobile and enterprise applications with clean architecture 
 - 💻 Full-stack engineer focused on complete real-world products
 - 📱 React Native and Flutter mobile development
 - 🤖 AI/ML and intelligent application development
+- ⛓️ Blockchain analytics and real-time Ethereum intelligence
 - 🧩 APIs, databases, enterprise systems and scalable architecture
 - ☁️ Docker, Linux, cloud and deployment workflows
 - 🚀 Building portfolio-grade products from idea to deployment
@@ -39,6 +40,7 @@ Building modern web, mobile and enterprise applications with clean architecture 
 Full-Stack Engineering  ████████████████████
 Mobile Development      ██████████████████░░
 AI / Machine Learning   ███████████████░░░░░
+Blockchain Engineering  ██████████████░░░░░░
 Cloud & DevOps          ████████████░░░░░░░░
 ```
 
@@ -58,7 +60,10 @@ Cloud & DevOps          ████████████░░░░░░�
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -73,6 +78,16 @@ Cloud & DevOps          ████████████░░░░░░�
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ [MEV Sentinel](https://github.com/oshadif/MEV-Sentinel)
+**Ethereum Mempool Intelligence Platform**
+
+React · Node.js · Ethereum JSON-RPC/WebSockets · MySQL · Socket.IO · Docker
+
+Real-time pending transaction monitoring, DEX router recognition, supported swap decoding, transaction lifecycle tracking, gas intelligence, whale detection, heuristic MEV signals and live analytics. Analytics-only; no transaction execution.
+
+</td>
+<td width="50%" valign="top">
+
 ### ✈️ [Tourium](https://github.com/oshadif/Tourium)
 **Tour & Travel Booking Platform**
 
@@ -81,6 +96,8 @@ React · Vite · Node.js · Express · PostgreSQL · JWT · Docker
 Booking workflows, hotels & vehicles, promos, mock payments, PDF invoices, reviews, uploads and admin operations.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 👥 [PeopleCore HR](https://github.com/oshadif/PeopleCore-HR)
@@ -91,8 +108,6 @@ React · Node.js · Express · PostgreSQL · JWT · Docker
 Employees, attendance, leave, payroll, recruitment, performance reviews, RBAC, audit logs and backups.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔥 [LeadForge CRM](https://github.com/oshadif/LeadForge-CRM)
@@ -103,6 +118,8 @@ React · Node.js · Express · PostgreSQL · JWT · Docker
 Leads, contacts, companies, opportunities, pipeline, activities, forecasting, RBAC and audit trails.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📦 [StockPilot](https://github.com/oshadif/StockPilot)
@@ -113,8 +130,6 @@ React · Node.js · Express · PostgreSQL · JWT · Docker
 Multi-warehouse stock, suppliers, purchase orders, transfers, batches, expiry tracking, valuation and audit logs.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧾 [RetailFlow POS](https://github.com/oshadif/RetailFlow-POS)
@@ -125,6 +140,8 @@ React · Node.js · Express · PostgreSQL · JWT · Docker
 Barcode workflows, ESC/POS printing, multi-branch inventory, returns/refunds, offline sync, audit logs and backups.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ [CARA](https://github.com/oshadif/CARA)
@@ -133,6 +150,13 @@ Barcode workflows, ESC/POS printing, multi-branch inventory, returns/refunds, of
 HTML · CSS · JavaScript
 
 Responsive multi-page storefront focused on clean front-end implementation and user experience.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+
+Expanding the portfolio with production-style deployment, automated testing, CI/CD, stronger observability and additional intelligent applications.
 
 </td>
 </tr>
@@ -155,7 +179,7 @@ Responsive multi-page storefront focused on clean front-end implementation and u
 
 ## 🤝 Open to Opportunities
 
-I'm interested in software engineering opportunities where I can build production software, contribute to strong engineering teams, and keep growing across full-stack, mobile, AI/ML and cloud engineering.
+I'm interested in software engineering opportunities where I can build production software, contribute to strong engineering teams, and keep growing across full-stack, mobile, AI/ML, blockchain and cloud engineering.
 
 <div align="center">
 
