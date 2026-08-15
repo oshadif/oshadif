@@ -38,12 +38,17 @@ Building practical, scalable software across web, mobile, enterprise systems and
 
 Customer booking flows, hotel and vehicle selection, promotional pricing, mock payments, PDF invoices, reviews, image uploads and an administrative operations dashboard.
 
+### 👥 [PeopleCore HR](https://github.com/oshadif/PeopleCore-HR)
+**Human Resource Management Platform** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+
+Employee records, attendance and clock-in/out, leave approvals, payroll and payslips, recruitment, performance reviews, role-based access, audit logs and database backup workflows.
+
 ### 🛍️ [CARA](https://github.com/oshadif/CARA)
 Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
 
-### 🔨 In Development / Publishing Next
+### 🔨 Publishing Next
 
-**PeopleCore HR** · **LeadForge CRM** · **StockPilot** · **Enterprise POS**
+**LeadForge CRM** · **StockPilot** · **Enterprise POS**
 
 ---
 
