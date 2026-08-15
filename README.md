@@ -24,49 +24,26 @@ Building practical, scalable software across web, mobile, enterprise systems and
 
 ## 🛠️ Technology Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
-![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-
-### Engineering Tools
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman)
+**Languages:** JavaScript · TypeScript · Python · Java · Dart  
+**Frontend & Mobile:** React · React Native · Flutter · HTML5 · CSS3  
+**Backend & Data:** Node.js · Express · PostgreSQL · MySQL · MongoDB  
+**Engineering:** Git · GitHub · Docker · Linux · Postman
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-| Project | What it demonstrates | Core stack |
-|---|---|---|
-| **Skin Disease Detection** | Cross-platform mobile app for a skin-care / skin-disease detection project | Flutter · Dart |
-| **CARA** | Application development project demonstrating practical implementation | Software Engineering |
-| **Tourium** | End-to-end tour booking and travel management platform | React · Node.js · Database |
-| **PeopleCore HR** | HR operations, employee records, attendance and workforce workflows | Full Stack |
-| **LeadForge CRM** | Lead, customer and sales-pipeline management | Full Stack |
-| **StockPilot** | Inventory, stock movement and operational management | Full Stack |
-| **Enterprise POS** | Multi-branch POS with sales, returns, auditing and hardware-oriented workflows | Full Stack |
+### 🌍 [Tourium](https://github.com/oshadif/Tourium)
+**Full-Stack Tour & Travel Booking Platform** — React, Vite, Node.js, Express, PostgreSQL, JWT and Docker.
 
-> As portfolio projects are published, each flagship repository will include screenshots, architecture, features, setup instructions, tech stack and a live demo where applicable.
+Customer booking flows, hotel and vehicle selection, promotional pricing, mock payments, PDF invoices, reviews, image uploads and an administrative operations dashboard.
+
+### 🛍️ [CARA](https://github.com/oshadif/CARA)
+Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
+
+### 🔨 In Development / Publishing Next
+
+**PeopleCore HR** · **LeadForge CRM** · **StockPilot** · **Enterprise POS**
 
 ---
 
@@ -76,8 +53,6 @@ Building practical, scalable software across web, mobile, enterprise systems and
 
 ![Oshadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oshadif&show_icons=true&hide_border=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshadif&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=oshadif&hide_border=true)
 
 </div>
 
