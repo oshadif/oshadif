@@ -1,1 +1,0 @@
-Profile assets used by the oshadif GitHub profile README.
