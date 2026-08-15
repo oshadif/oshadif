@@ -1,0 +1,1 @@
+Binary banner asset will be attached to the README through the repository asset path.
