@@ -43,12 +43,22 @@ Customer booking flows, hotel and vehicle selection, promotional pricing, mock p
 
 Employee records, attendance and clock-in/out, leave approvals, payroll and payslips, recruitment, performance reviews, role-based access, audit logs and database backup workflows.
 
+### 🔥 [LeadForge CRM](https://github.com/oshadif/LeadForge-CRM)
+**Customer Relationship Management Platform** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+
+Lead, contact and company management, opportunity pipelines, follow-ups, activities, analytics, revenue forecasting, role-based access and audit trails.
+
+### 📦 [StockPilot](https://github.com/oshadif/StockPilot)
+**Enterprise Inventory Management System** — React, Node.js, Express, PostgreSQL, JWT and Docker.
+
+Multi-warehouse inventory, suppliers, purchase orders, goods receiving, stock transfers, adjustments, batch and expiry tracking, low-stock monitoring, valuation and audit logs.
+
 ### 🛍️ [CARA](https://github.com/oshadif/CARA)
 Responsive multi-page e-commerce frontend built with HTML, CSS and JavaScript.
 
 ### 🔨 Publishing Next
 
-**LeadForge CRM** · **StockPilot** · **Enterprise POS**
+**Enterprise POS**
 
 ---
 
