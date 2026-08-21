@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Oshadi Fernando — Full-Stack Developer" />
+  <img src="./assets/profile_banner.png" width="100%" alt="Oshadi Fernando — Full-Stack Developer" />
 </div>
 
 <div align="center">
